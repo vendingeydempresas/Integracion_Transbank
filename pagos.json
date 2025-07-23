@@ -1,0 +1,14 @@
+{
+  "1234": {
+    "buyOrder": "ORDEN1234",
+    "sessionId": "SESSION1234",
+    "amount": 10000,
+    "description": "Compra de prueba"
+  },
+  "5678": {
+    "buyOrder": "ORDEN5678",
+    "sessionId": "SESSION5678",
+    "amount": 5000,
+    "description": "Compra de prueba 2"
+  }
+}
